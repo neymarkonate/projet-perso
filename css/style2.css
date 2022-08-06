@@ -1,0 +1,139 @@
+	.image {
+		width: 100px;float: left;
+	}
+	#entete{
+		background-color: rebeccapurple;
+		color: white;
+		text-align: center;
+		font-size: 25px;
+
+	}
+#titre {
+	padding-top: 50px;
+}
+#bloc1{
+	background-color: #000; color: #fff;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20px;
+	text-transform: uppercase;
+}
+.bloc_produit{
+	margin-top: 20px;
+	background-color: #000;
+}
+.produit {
+		
+		height: 350px;
+		width: 230px;
+		float: left;
+		background-color: crimson; 
+		color: #FFF;
+		text-align: center;
+		padding: 10px;
+		margin: 12px;
+		
+}
+.img_produit {
+	width: 100%;
+}
+
+.produit h3 {
+	margin-top: -20px;
+}
+
+#bloc2{
+	background-color: #000; color: FFF;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20px;
+	text-transform: uppercase;
+
+
+}
+.img_sory {
+	width: 100%;
+}
+
+.bloc_produit1 {
+	margin-top: 20px;
+	background-color: #000;
+
+
+}
+.produits {
+		
+		height: 350px;
+		width: 230px;
+		float: left;
+		background-color: violet; 
+		color: #FFF;
+		text-align: center;
+		padding: 10px;
+		margin: 12px;
+		
+}
+.produits h3 {
+	margin-top: -20px;
+}
+#bloc_produit0 {
+	margin-top: 20px;
+	background-color: #000;
+
+
+}
+.produitsory{
+	height: 350px;
+	width: 230px;
+	float: left;
+	background-color: rosybrown;
+	color: FFF;
+	text-align: center;
+	padding: 10px;
+	margin: 12px;
+
+}
+.img_neymar{
+	width: 100%;
+}
+#bloc0{
+	background-color: #000; color: white;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+
+}
+#ma_famille {
+	background-color: #000; color: white;
+	margin-top: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 20px;
+
+}
+.papa_papa{
+	background-color: #000;
+	margin-top: 20px;
+
+
+}
+.frere_soeur{
+	background-color: rebeccapurple; color: white;
+	height: 350px;
+	width: 230px;
+	float: left;
+	margin: 12px;
+	padding: 10px;
+	text-align: center;
+
+}
+.img_ainer{
+	width: 100%;
+
+}
+
+
+
